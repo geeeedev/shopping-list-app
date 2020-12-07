@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shopping-list-app/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/shopping-list-app/static/js/main.09e5faaf.chunk.js",
+    "main.js.map": "/shopping-list-app/static/js/main.09e5faaf.chunk.js.map",
+    "runtime-main.js": "/shopping-list-app/static/js/runtime-main.979f2345.js",
+    "runtime-main.js.map": "/shopping-list-app/static/js/runtime-main.979f2345.js.map",
+    "static/js/2.58519da9.chunk.js": "/shopping-list-app/static/js/2.58519da9.chunk.js",
+    "static/js/2.58519da9.chunk.js.map": "/shopping-list-app/static/js/2.58519da9.chunk.js.map",
+    "static/js/3.2ed96fab.chunk.js": "/shopping-list-app/static/js/3.2ed96fab.chunk.js",
+    "static/js/3.2ed96fab.chunk.js.map": "/shopping-list-app/static/js/3.2ed96fab.chunk.js.map",
+    "index.html": "/shopping-list-app/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/shopping-list-app/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.58519da9.chunk.js.LICENSE.txt": "/shopping-list-app/static/js/2.58519da9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/shopping-list-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.979f2345.js",
+    "static/js/2.58519da9.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.09e5faaf.chunk.js"
+  ]
+}
