@@ -144,7 +144,7 @@ const ShoppingList = () => {
 
   return (
     <>
-      <AppHeader>Live Shopping List</AppHeader>
+      <AppHeader>The Shopping List App</AppHeader>
       <form
         onSubmit={(e) => {
           handleAddNew(e);
