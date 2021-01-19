@@ -23,6 +23,8 @@ Future Improvements:
 1. Add drag and drop
 
 
-> Additional codes commented out are intentionally left in for my learning purposes
+
 
 ![](Screenshots/ShoppingListApp01.png)
+
+> Additional codes commented out are intentionally left in for my learning purposes
