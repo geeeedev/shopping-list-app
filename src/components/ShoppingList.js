@@ -61,10 +61,11 @@ const ShoppingList = () => {
         isCrossedOff,
       };
 
-      const newList = allItemsList;
-      newList.push(newItem);
-      setDisplayList(newList);
-      setAllItemsList(newList);
+      // const newList = allItemsList; // NOT the proper way to do change state
+      // newList.push(newItem);        // JS array is by-ref - .push() here will push to allItemsList already 
+      // setAllItemsList(newList);     // this is essentially not needed
+      setAllItemsList([...allItemsList,newItem]);  //proper way to alter React State - use setState() instead of .push()
+
 
       setItemName("");
     } else {
